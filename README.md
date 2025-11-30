@@ -1,3 +1,3 @@
-# Geschichte Hausarbeit
+# Geschichte der Informatik
 
 Das ist meine Hausarbeit im Sommersemester 2025 im Fach Informatik
